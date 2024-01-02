@@ -1,0 +1,21 @@
+<html>
+<head>
+    <title>sports</title>
+</head>
+<body>
+    <h1>best player for 2023 </h1>
+  <ul>
+    <li>Sports
+      <ul>
+        <li> pat cummins </li>
+        <li> david warner </li>
+        <li> shaheen afradi </li>
+        <ol>
+        </li>
+        <li>virat kholi</li>
+        <li>maxwell</li>
+        <li>trivas head</li>
+      </ol>
+    </ul>
+</body>
+</html>
