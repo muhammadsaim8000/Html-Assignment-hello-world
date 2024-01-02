@@ -1,0 +1,26 @@
+<html>
+    <head>
+    <title>assignment 2</title>
+    </head>
+    <body>
+        <P>space language "en-us" welcome to the saylani mass it center</P>
+        this is my first website <site>saylani mass it</site>
+    </p>
+    <h1>heading 1</h1>
+    <h2>headind 2</h2>
+    <h3>heading 3</h3>
+    <h4>heading 4</h4>
+    <h5>heading 5</h5>
+    <p>This paragraph includes some <strong>strong</strong> and <em>emphasized</em> text. Additionally, there is
+        some text with <sup>superscript</sup> and <sub>subscript</sub>.</p>
+        Blockquote and Quotation
+        <blockquote>
+            <p>This is a blockquote. It can be used to highlight a quote from the text.</p>
+        </blockquote>
+        <q>This is an inline quote.</q>
+    </section>
+    Abbreviation and Citation
+    <p><abbr title="Hypertext Markup Language">HTML</abbr> is a markup language used for structuring content.</p>
+    <cite>This is a citation.</cite>
+    </body>
+    </html>
