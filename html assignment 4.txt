@@ -1,0 +1,42 @@
+<html>
+    <head>
+        <body>
+            <p> <h1> about us <h1> <p>
+                <p> Saylani was found in year ....  </p> <br />
+        <p> Following are our charity works for humanity </p> <br />
+        <p> Saylani Dastarkhwan  </p> <br />
+        <p> Saylani Job bank  </p> <br />
+        <p> Saylani Medical Services  </p> <br />
+        <p> Saylani Mass IT Training Program  </p> <br />
+        <p> Goto <a href="home.html" </a> Home </p> <br />
+        <p>For mor details click on  <a href="Contact.html" Contact US </a> </p>
+       </body> 
+    </head>
+</html>
+<html>
+    <head>
+       <body>
+        <p>contact us on following numbers</p>
+        <br />
+        <p> lorem spum </p>
+        <a href="# paragrph 2" </a> </p>
+        <p> 1. Phone:03302935904 </p> <br />
+        <p> 2. Cell: 0333-12345678 </p> <br />
+        <p> 3. Email: <a href="mailto:saylani@gmail.com"> Saylani@gmail.com </a>  </p> <br />
+        <p> 4. Goto <a href="home.html" </a> Home Page </p>
+        <p> For more info Click on <a href="About.html" </a> About us </p>
+
+       </body> 
+    </head>
+</html>
+<html>
+    <head>
+       <body>
+        <p>Welcome to Homepage of SMIT</p>
+        <br />
+        <p> We are working for fresh job </p> <br />
+        <p> For more info Click on <a href="About.html" </a> About us </p>
+
+       </body> 
+    </head>
+</html>
